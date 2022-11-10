@@ -1,6 +1,6 @@
 # Replit **1.1.2**
 # Creator
-Developer: GModule
+Developer: **GModule**
 # Replit Bot
 **Automatic Replit Run Bot**
 *Requires Blank Node Replit Project*
